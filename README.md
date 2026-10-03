@@ -6,7 +6,7 @@ This project analyzes a movie dataset containing over 9,000 titles using Python 
 
 ## Project Scenario
 
-Netflix and other streaming platforms use data to understand content trends, audience preferences, and movie performance.
+Movie and streaming platforms use data to understand content trends, audience preferences, and movie performance.
 
 In this project, I took the role of a Data Analyst and used Python to clean, transform, analyze, and visualize a movie dataset to answer a set of business-oriented questions.
 
