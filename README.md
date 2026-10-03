@@ -1,4 +1,4 @@
-# Netflix Data Analysis
+# Movie Data Analysis
 
 ## Project Overview
 
